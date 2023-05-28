@@ -3,11 +3,11 @@
 # Copyright 2019 QCRI (Author:Ahmed Ali)
 # Apache 2.0
 
-# Copyright 2023 NAME REDACTED FOR ANONYMITY IN THE REVIEW PROCESS
+# Copyright 2023 Agata Jakubiak
 # Apache 2.0
 
 # Supplementary material to the paper "Whistle-to-text: Automatic recognition of the Silbo Gomero whistled language"
-# This is the Kaldi recipe that I used to train both of the ASR models described in the paper.
+# This is the Kaldi recipe that was used to train both of the ASR models described in the paper.
 
 name=
 stage=0
